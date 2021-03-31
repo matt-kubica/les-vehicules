@@ -138,5 +138,6 @@ dmypy.json
 cython_debug/
 
 receivers.txt
+urls.csv
 .gitsecret/keys/random_seed
 !*.secret
